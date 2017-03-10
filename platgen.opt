@@ -1,0 +1,13 @@
+-p
+xc5vfx70tff1136-2
+-lang
+vhdl
+-intstyle
+default
+-lp
+C:/temp/G/GPAC/Lib
+-lp
+C:/temp/G/XFEL/14_Firmware/22_Library/EDKLib/hw
+-msg
+__xps/ise/xmsgprops.lst
+system.mhs

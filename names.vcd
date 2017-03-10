@@ -1,0 +1,27 @@
+$date
+   Jun 22, 2016 13:55:40
+$end
+$version
+   ChipScope Pro Analyzer  14.7 P.20131013 (Build 14700.13.286.464)
+$end
+$timescale
+    1ns
+$end
+
+$scope module csp_set1 $end
+$var wire 4 n0 fsm2 $end
+$var wire 4 n1 fsm1 $end
+$var wire 4 n2 fsm0 $end
+$var wire 4 n3 i_start $end
+$var wire 4 n4 start_r $end
+$var wire 4 n5 timer_on $end
+$var wire 4 n6 send_packet $end
+$var wire 4 n7 end_of_sequence $end
+$var wire 4 n8 o_tx_valid $end
+$var wire 4 n9 i_sop $end
+$var wire 4 n10 sop_r $end
+$var wire 4 n11 o_busy $end
+$var wire 4 n12 i_busy $end
+$upscope $end
+$enddefinitions $end
+
